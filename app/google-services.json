@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505214216586",
+    "project_id": "azpushtest-ac70f",
+    "storage_bucket": "azpushtest-ac70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505214216586:android:1f53006b6a7453bb67c073",
+        "android_client_info": {
+          "package_name": "com.sirketismi.azpushnatification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEe2BAGz3cEoJwplvArkcj5IppKQohrH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
