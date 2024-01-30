@@ -56,3 +56,21 @@ class FirebasePushNotificationService : FirebaseMessagingService() {
 
     //apini guncelle
 }
+
+/* {
+ "message": { "token":"c1gagk0WSEqLs3CyVkS3zr:APA91bH6reLli6u2lSLibomWoavnTq2nS8h8sqLCB8acVmRXCoqK1XtKgPPlUtnJ8_zXK_gVVMnA91_AyY_oBgp4TRTDyc_6eDJVvvC8u0yDyQRQ17jAPtlgxjYI0X2GuDBkFI4uAsu",
+  "notification": {
+   "body": "Body of Your Notification in data",
+   "title": "Title of Your Notification in data"
+   },
+  "data": {
+   "body": "Body of Your Notification in data",
+   "title": "Title of Your Notification in data",
+   "key_1": "Value for key_1",
+   "key_2": "Value for key_2",
+   "siparisID": "123"
+   }
+  }
+}
+
+*/
